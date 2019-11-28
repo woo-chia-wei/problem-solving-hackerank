@@ -1,2 +1,3 @@
 # About
 1. (Easy) strange-counter [[question](https://www.hackerrank.com/challenges/strange-code/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/01-easy-strange-counter.ipynb)]
+1. (Medium) 3d-surface-area [[question](https://www.hackerrank.com/challenges/3d-surface-area/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/02-medium-3d-surface-area.ipynb)]
