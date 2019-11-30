@@ -3,3 +3,4 @@
 1. (Medium) 3d-surface-area [[question](https://www.hackerrank.com/challenges/3d-surface-area/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/02-medium-3d-surface-area.ipynb)]
 1. (Medium) common-child [[question](https://www.hackerrank.com/challenges/common-child/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/03_medium_common_child.ipynb)]
 1. (Easy) sherlock-and-array [[question](https://www.hackerrank.com/challenges/sherlock-and-array/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/04_easy_sherlock_and_array.ipynb)]
+1. (Medium) minimum_swaps_2 [[question](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/05_medium_minimum_swaps_2.ipynb)]
