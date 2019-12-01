@@ -5,3 +5,4 @@
 1. (Easy) sherlock-and-array [[question](https://www.hackerrank.com/challenges/sherlock-and-array/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/04_easy_sherlock_and_array.ipynb)]
 1. (Medium) minimum_swaps_2 [[question](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/05_medium_minimum_swaps_2.ipynb)]
 1. (Easy) two_strings [[question](https://www.hackerrank.com/challenges/two-strings/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/06_easy_two_strings.ipynb)]
+1. (Easy) luck_balance [[question](https://www.hackerrank.com/challenges/luck-balance/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/07_easy_luck_balance.ipynb)]
