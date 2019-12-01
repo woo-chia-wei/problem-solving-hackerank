@@ -7,3 +7,4 @@
 1. (Easy) two_strings [[question](https://www.hackerrank.com/challenges/two-strings/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/06_easy_two_strings.ipynb)]
 1. (Easy) luck_balance [[question](https://www.hackerrank.com/challenges/luck-balance/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/07_easy_luck_balance.ipynb)]
 1. (Hard) poisonous-plants [[question](https://www.hackerrank.com/challenges/poisonous-plants/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/08-hard-poisonous-plants.ipynb)]
+1. (Medium) max-array-sum [[question](https://www.hackerrank.com/challenges/max-array-sum/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/09-medium-max-array-sum.ipynb)]
