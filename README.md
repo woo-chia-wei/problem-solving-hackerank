@@ -11,3 +11,4 @@
 1. (Easy) bst-lowest-common-ancestor [[question](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/10-easy-bst-lowest-common-ancestor.ipynb)]
 1. (Easy) min-abs-dff [[question](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/11-easy-min-abs-dff.ipynb)]
 1. (Medium) count-triplets [[question](https://www.hackerrank.com/challenges/count-triplets-1/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/12-medium-count-triplets.ipynb)]
+1. (Hard) array-manipulation [[question](https://www.hackerrank.com/challenges/crush/problem)] [[solution](https://github.com/woo-chia-wei/problem-solving-hackerank/blob/master/13-hard-array-manipulation.ipynb)]
